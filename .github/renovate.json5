@@ -1,0 +1,7 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "local>asingh662/renovate-config:java11.json5"
+  ]
+}
+
